@@ -1,0 +1,3 @@
+1 adet 220 ohm 1/4W direnç
+1 adet 1K 1/4W direç
+74HC14 ENTEGRE DEVRESİ SHCMITT TRİGGER 
